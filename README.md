@@ -1,4 +1,4 @@
-# 2022 DLIMA
+# 2022 DLMIA
 
 This repository is based on a collaborative project between the **Institute of Statistics, NYCU** and a **hospital research team**.
 
