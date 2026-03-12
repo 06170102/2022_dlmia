@@ -19,6 +19,7 @@ Each record includes:
 - **Age**
 - **Gender**
 - **Brain X-ray image**
+  [xray](../images/brain_xray.png)
 
 - 
 
@@ -64,6 +65,8 @@ ResNet helps mitigate vanishing gradient problems and enables deeper networks.
 ---
 
 ### Concatenated Model
+
+  [concatenate](../images/concatenate_model.png)
 
 A hybrid architecture is implemented by **concatenating features extracted from VGG16 and ResNet**.
 
