@@ -58,23 +58,3 @@ Backbone CNN
 **Region Proposal Network (RPN)**
       ↓
 Region Classification + Bounding Box Regression
-
-Faster R-CNN first generates candidate regions and then classifies them into disease categories.
-
-Mask R-CNN
-
-Mask R-CNN extends Faster R-CNN by adding a segmentation branch.
-
-Pipeline:
-
-Input Image
-      ↓
-Backbone CNN
-      ↓
-Region Proposal Network
-      ↓
-Bounding Box + Class Prediction
-      ↓
-Pixel-level Mask Prediction
-
-This allows the model to localize abnormalities more precisely.
