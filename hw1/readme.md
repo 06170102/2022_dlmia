@@ -20,6 +20,10 @@ Each record includes:
 - **Gender**
 - **Brain X-ray image**
 
+- 
+
+
+
 The task is to predict the **disease stage** of Parkinson’s disease.
 
 ### Dataset Summary
@@ -66,3 +70,15 @@ A hybrid architecture is implemented by **concatenating features extracted from 
 The combined representation aims to leverage complementary information from both models.
 
 Architecture concept:
+
+
+
+
+
+
+
+
+
+
+
+
